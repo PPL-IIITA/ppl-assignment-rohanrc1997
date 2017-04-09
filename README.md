@@ -20,6 +20,9 @@ KEY FEATURES:
 
 *Different Namespaces are used to classify classes according to algorithms, data structures, data items, utilities and main classes for every question.
 
+*The source files (.java) are located in the directory: (src) 
+ of each "part_1" and "part_2" directories of the repository.
+
 *Consists of a utility (Random_gen_util.java) for producing randomly generated data in the following file: "input.txt"
  for input boys, gifts and girls and uses a 
  dictionary of names ("girl.txt" and "boy.txt") to choose the names from.
@@ -27,8 +30,8 @@ KEY FEATURES:
 *Consists of a utility to store all the events namely, commitments and gift exchanges in the
  following text file along with a timestamp :    "log.txt"
 
-*The Java-Documentation for the Project is present in : javadoc/index.html
-  and can be viewed using an internet browser
+*The Java-Documentation for the Project is present in : javadoc/index.html   
+ and can be viewed using an internet browser
 
 *The class diagram is provided as "class_diagram.pdf" in both of the directories, ie "part_1" and "part_2"
 
