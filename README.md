@@ -61,6 +61,7 @@ Compilation and Build Procedure using Apache ANT (using command line):
    
    For example: For Q1 and Q2, change the current working directory to "part_1" .
    Then, Run the following command to compile all the project packages at once: 
+   [[ Required : Apache ANT v 1.9.4+ must be installed on the system for the command to execute successfully. ]] 
    
     ant compile
 
