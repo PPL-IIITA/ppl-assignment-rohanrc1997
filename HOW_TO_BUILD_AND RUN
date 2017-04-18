@@ -1,0 +1,72 @@
+The project folder "q11" consists of a build.xml file compatible with the Apache ANT Build Tool.
+
+**********************************************************************
+Compilation and Build Procedure using Apache ANT (using command line):
+**********************************************************************
+
+
+
+
+1. Change the current working directory to that of the root of the project directory "q11" using :
+
+    cd q11
+
+2. Then, Run the following command to compile all the project packages at once :
+   [[ Required: Apache ANT v1.9.4+ must be installed on the system for the command to execute. ]]
+
+    ant compile
+    
+3. Change the current directory to "build/classes" using:
+
+    cd build/classes
+    
+    
+3. To run the Q1:
+
+    java main_classes.q1
+    
+    
+4. To run the Q2:
+
+    java main_classes.q2
+    
+    
+3. To run the Q3:
+
+    java main_classes.q3
+    
+    
+4. To run the Q4:
+
+    java main_classes.q4
+    
+5. For Q5 :
+ 
+    java main_classes.q5
+    
+6. For Q6 :
+
+    java main_classes.q6
+    
+7. For Q7 :
+  
+    java main_classes.q7
+    
+8. For Q8 :
+
+    java main_classes.q8
+    
+9. For Q9 :
+
+    java main_classes.q9
+    
+10. For Q10 :
+
+    java main_classes.q10
+    
+    
+********************************************************************************************************
+********************************************************************************************************
+
+    
+  
